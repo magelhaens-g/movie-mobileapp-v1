@@ -1,0 +1,114 @@
+{
+  "tvshows": [
+    {
+      "tvShowsId": "t01",
+      "title": "Arrow",
+      "genre": "Crime, Drama, Mystery, Action, Adventure",
+      "rating": "66%",
+      "creator": "Greg Berlanti",
+      "desc": "Spoiled billionaire playboy Oliver Queen is missing and presumed dead when his yacht is lost at sea. He returns five years later a changed man, determined to clean up the city as a hooded vigilante armed with a bow.",
+      "status": "Ended",
+      "favorite": false,
+      "imagePath": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gKG5QGz5Ngf8fgWpBsWtlg5L2SF.jpg"
+    },
+    {
+      "tvShowsId": "t02",
+      "title": "Doom Patrol",
+      "genre": "Science Fiction, Fantasy, Comedy, Drama",
+      "rating": "76%",
+      "creator": "Jeremy Carver",
+      "desc": "The Doom Patrol’s members each suffered horrible accidents that gave them superhuman abilities — but also left them scarred and disfigured. Traumatized and downtrodden, the team found purpose through The Chief, who brought them together to investigate the weirdest phenomena in existence — and to protect Earth from what they find.",
+      "status": "Returning Series",
+      "favorite": false,
+      "imagePath": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/drlfSCIlMKrEeMPhi8pqY4xGxj.jpg"
+    },
+    {
+      "tvShowsId": "t03",
+      "title": "Dragon Ball",
+      "genre": "Animation, Action, Adventure, Science Fiction, Fantasy",
+      "rating": "81%",
+      "creator": "Akira Toriyama",
+      "desc": "Long ago in the mountains, a fighting master known as Gohan discovered a strange boy whom he named Goku. Gohan raised him and trained Goku in martial arts until he died. The young and very strong boy was on his own, but easily managed. Then one day, Goku met a teenage girl named Bulma, whose search for the mystical Dragon Balls brought her to Goku's home. Together, they set off to find all seven and to grant her wish.",
+      "status": "Ended",
+      "favorite": false,
+      "imagePath": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tZ0jXOeYBWPZ0OWzUhTlYvMF7YR.jpg"
+    },
+    {
+      "tvShowsId": "t04",
+      "title": "Fairy Tail",
+      "genre": "Action, Adventure, Animation, Comedy, Science Fiction, Fantasy, Mystery",
+      "rating": "78%",
+      "creator": "Hiro Mashima",
+      "desc": "Lucy is a 17-year-old girl, who wants to be a full-fledged mage. One day when visiting Harujion Town, she meets Natsu, a young man who gets sick easily by any type of transportation. But Natsu isn't just any ordinary kid, he's a member of one of the world's most infamous mage guilds: Fairy Tail.",
+      "status": "Ended",
+      "favorite": false,
+      "imagePath": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jsYTctFnK8ewomnUgcwhmsTkOum.jpg"
+    },
+    {
+      "tvShowsId": "t05",
+      "title": "Family Guy",
+      "genre": "Animation, Comedy",
+      "rating": "70%",
+      "creator": "Seth MacFarlane",
+      "desc": "Sick, twisted, politically incorrect and Freakin' Sweet animated series featuring the adventures of the dysfunctional Griffin family. Bumbling Peter and long-suffering Lois have three kids. Stewie (a brilliant but sadistic baby bent on killing his mother and taking over the world), Meg (the oldest, and is the most unpopular girl in town) and Chris (the middle kid, he's not very bright but has a passion for movies). The final member of the family is Brian - a talking dog and much more than a pet, he keeps Stewie in check whilst sipping Martinis and sorting through his own life issues.",
+      "status": "Returning Series",
+      "favorite": false,
+      "imagePath": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eWWCRjBfLyePh2tfZdvNcIvKSJe.jpg"
+    },
+    {
+      "tvShowsId": "t06",
+      "title": "The Flash",
+      "genre": "Drama, Science Fiction, Fantasy",
+      "rating": "77%",
+      "creator": "Greg Berlanti",
+      "desc": "After a particle accelerator causes a freak storm, CSI Investigator Barry Allen is struck by lightning and falls into a coma. Months later he awakens with the power of super speed, granting him the ability to move through Central City like an unseen guardian angel. Though initially excited by his newfound powers, Barry is shocked to discover he is not the only \"meta-human\" who was created in the wake of the accelerator explosion -- and not everyone is using their new powers for good. Barry partners with S.T.A.R. Labs and dedicates his life to protect the innocent. For now, only a few close friends and associates know that Barry is literally the fastest man alive, but it won't be long before the world learns what Barry Allen has become...The Flash.",
+      "status": "Returning Series",
+      "favorite": false,
+      "imagePath": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lJA2RCMfsWoskqlQhXPSLFQGXEJ.jpg"
+    },
+    {
+      "tvShowsId": "t07",
+      "title": "Game of Thrones",
+      "genre": "Science Fiction, Fantasy, Drama, Action, Adventure",
+      "rating": "84%",
+      "creator": "David Benioff",
+      "desc": "Seven noble families fight for control of the mythical land of Westeros. Friction between the houses leads to full-scale war. All while a very ancient evil awakens in the farthest north. Amidst the war, a neglected military order of misfits, the Night's Watch, is all that stands between the realms of men and icy horrors beyond.",
+      "status": "Ended",
+      "favorite": false,
+      "imagePath": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/u3bZgnGQ9T01sWNhyveQz0wH0Hl.jpg"
+    },
+    {
+      "tvShowsId": "t08",
+      "title": "Gotham",
+      "genre": "Drama, Crime, Science Fiction, Fantasy",
+      "rating": "75%",
+      "creator": "Bruno Heller",
+      "desc": "Everyone knows the name Commissioner Gordon. He is one of the crime world's greatest foes, a man whose reputation is synonymous with law and order. But what is known of Gordon's story and his rise from rookie detective to Police Commissioner? What did it take to navigate the multiple layers of corruption that secretly ruled Gotham City, the spawning ground of the world's most iconic villains? And what circumstances created them – the larger-than-life personas who would become Catwoman, The Penguin, The Riddler, Two-Face and The Joker?",
+      "status": "Ended",
+      "favorite": false,
+      "imagePath": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4XddcRDtnNjYmLRMYpbrhFxsbuq.jpg"
+    },
+    {
+      "tvShowsId": "t09",
+      "title": "Grey's Anatomy",
+      "genre": "Drama",
+      "rating": "82%",
+      "creator": "Shonda Rhimes",
+      "desc": "Follows the personal and professional lives of a group of doctors at Seattle’s Grey Sloan Memorial Hospital.",
+      "status": "Returning Series",
+      "favorite": false,
+      "imagePath": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/clnyhPqj1SNgpAdeSS6a6fwE6Bo.jpg"
+    },
+    {
+      "tvShowsId": "t10",
+      "title": "Hanna",
+      "genre": "Action, Adventure, Drama",
+      "rating": "75%",
+      "creator": "David Farr",
+      "desc": "This thriller and coming-of-age drama follows the journey of an extraordinary young girl as she evades the relentless pursuit of an off-book CIA agent and tries to unearth the truth behind who she is. Based on the 2011 Joe Wright film.",
+      "status": "Returning Series",
+      "favorite": false,
+      "imagePath": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iYUtjx1EN4SVTgxd2TB4cZTGSQb.jpg"
+    }
+  ]
+}

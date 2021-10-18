@@ -1,0 +1,114 @@
+{
+  "movies": [
+    {
+      "movieId": "m01",
+      "title": "A Star is Born",
+      "genre": "Drama, Romance, Music",
+      "rating": "75%",
+      "director": "Bradley Cooper",
+      "desc": "Seasoned musician Jackson Maine discovers — and falls in love with — struggling artist Ally. She has just about given up on her dream to make it big as a singer — until Jack coaxes her into the spotlight. But even as Ally's career takes off, the personal side of their relationship is breaking down, as Jack fights an ongoing battle with his own internal demons.",
+      "releaseDate": "10/05/2018",
+      "favorite": false,
+      "imagePath": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wrFpXMNBRj2PBiN4Z5kix51XaIZ.jpg"
+    },
+    {
+      "movieId": "m02",
+      "title": "Alita: Battle Angel",
+      "genre": "Action, Science Fiction, Adventure",
+      "rating": "72%",
+      "director": "Robert Rodriguez",
+      "desc": "When Alita awakens with no memory of who she is in a future world she does not recognize, she is taken in by Ido, a compassionate doctor who realizes that somewhere in this abandoned cyborg shell is the heart and soul of a young woman with an extraordinary past.",
+      "releaseDate": "02/14/2019",
+      "favorite": false,
+      "imagePath": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xRWht48C2V8XNfzvPehyClOvDni.jpg"
+    },
+    {
+      "movieId": "m03",
+      "title": "Aquaman",
+      "genre": "Action, Adventure, Fantasy",
+      "rating": "69%",
+      "director": "James Wan",
+      "desc": "Once home to the most advanced civilization on Earth, Atlantis is now an underwater kingdom ruled by the power-hungry King Orm. With a vast army at his disposal, Orm plans to conquer the remaining oceanic people and then the surface world. Standing in his way is Arthur Curry, Orm's half-human, half-Atlantean brother and true heir to the throne.",
+      "releaseDate": "12/21/2018",
+      "favorite": false,
+      "imagePath": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xLPffWMhMj1l50ND3KchMjYoKmE.jpg"
+    },
+    {
+      "movieId": "m04",
+      "title": "Bohemian Rhapsody",
+      "genre": "Music, Drama, History",
+      "rating": "80%",
+      "director": "Bryan Singer",
+      "desc": "Singer Freddie Mercury, guitarist Brian May, drummer Roger Taylor and bass guitarist John Deacon take the music world by storm when they form the rock 'n' roll band Queen in 1970. Hit songs become instant classics. When Mercury's increasingly wild lifestyle starts to spiral out of control, Queen soon faces its greatest challenge yet – finding a way to keep the band together amid the success and excess.",
+      "releaseDate": "11/02/2018",
+      "favorite": false,
+      "imagePath": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lHu1wtNaczFPGFDTrjCSzeLPTKN.jpg"
+    },
+    {
+      "movieId": "m05",
+      "title": "Cold Pursuit",
+      "genre": "Action, Crime, Thriller",
+      "rating": "57%",
+      "director": "Hans Petter Moland",
+      "desc": "The quiet family life of Nels Coxman, a snowplow driver, is upended after his son's murder. Nels begins a vengeful hunt for Viking, the drug lord he holds responsible for the killing, eliminating Viking's associates one by one. As Nels draws closer to Viking, his actions bring even more unexpected and violent consequences, as he proves that revenge is all in the execution.",
+      "releaseDate": "02/08/2019",
+      "favorite": false,
+      "imagePath": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hXgmWPd1SuujRZ4QnKLzrj79PAw.jpg"
+    },
+    {
+      "movieId": "m06",
+      "title": "Creed II",
+      "genre": "Drama",
+      "rating": "69%",
+      "director": "Steven Caple Jr.",
+      "desc": "Between personal obligations and training for his next big fight against an opponent with ties to his family's past, Adonis Creed is up against the challenge of his life.",
+      "releaseDate": "11/21/2018",
+      "favorite": false,
+      "imagePath": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/v3QyboWRoA4O9RbcsqH8tJMe8EB.jpg"
+    },
+    {
+      "movieId": "m07",
+      "title": "Fantastic Beasts: The Crimes of Grindelwald",
+      "genre": "Adventure, Fantasy, Drama",
+      "rating": "69%",
+      "director": "David Yates",
+      "desc": "Gellert Grindelwald has escaped imprisonment and has begun gathering followers to his cause—elevating wizards above all non-magical beings. The only one capable of putting a stop to him is the wizard he once called his closest friend, Albus Dumbledore. However, Dumbledore will need to seek help from the wizard who had thwarted Grindelwald once before, his former student Newt Scamander, who agrees to help, unaware of the dangers that lie ahead. Lines are drawn as love and loyalty are tested, even among the truest friends and family, in an increasingly divided wizarding world.",
+      "releaseDate": "11/16/2018",
+      "favorite": false,
+      "imagePath": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fMMrl8fD9gRCFJvsx0SuFwkEOop.jpg"
+    },
+    {
+      "movieId": "m08",
+      "title": "Glass",
+      "genre": "Thriller, Drama, Science Fiction",
+      "rating": "67%",
+      "director": "M. Night Shyamalan",
+      "desc": "In a series of escalating encounters, former security guard David Dunn uses his supernatural abilities to track Kevin Wendell Crumb, a disturbed man who has twenty-four personalities. Meanwhile, the shadowy presence of Elijah Price emerges as an orchestrator who holds secrets critical to both men.",
+      "releaseDate": "01/18/2019",
+      "favorite": false,
+      "imagePath": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/svIDTNUoajS8dLEo7EosxvyAsgJ.jpg"
+    },
+    {
+      "movieId": "m09",
+      "title": "How to Train Your Dragon: The Hidden World",
+      "genre": "Animation, Family, Adventure",
+      "rating": "78%",
+      "director": "Dean DeBlois",
+      "desc": "As Hiccup fulfills his dream of creating a peaceful dragon utopia, Toothless’ discovery of an untamed, elusive mate draws the Night Fury away. When danger mounts at home and Hiccup’s reign as village chief is tested, both dragon and rider must make impossible decisions to save their kind.",
+      "releaseDate": "01/09/2019",
+      "favorite": false,
+      "imagePath": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xvx4Yhf0DVH8G4LzNISpMfFBDy2.jpg"
+    },
+    {
+      "movieId": "m10",
+      "title": "Avengers: Infinity War",
+      "genre": "Adventure, Action, Science Fiction",
+      "rating": "83%",
+      "director": "Joe Russo",
+      "desc": "As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all of reality. Everything the Avengers have fought for has led up to this moment - the fate of Earth and existence itself has never been more uncertain.",
+      "releaseDate": "04/27/2018",
+      "favorite": false,
+      "imagePath": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg"
+    }
+  ]
+}

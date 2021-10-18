@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">MovieDB</string>
+    <string name="movie">Movie</string>
+    <string name="tv_show">TV Show</string>
+    <string name="movie_detail">Movie Detail</string>
+    <string name="tv_show_detail">TV Show Detail</string>
+    <string name="title">Title</string>
+    <string name="genre">Genre</string>
+    <string name="rating">Rating</string>
+    <string name="director">Director</string>
+    <string name="release_date">Release Date</string>
+    <string name="creator">Creator</string>
+    <string name="status">Status</string>
+    <string name="desc">Overview</string>
+    <string name="terjadi_kesalahan">There is an error</string>
+    <string name="favorite">Favorite</string>
+    <string name="remove">Removed from favorites</string>
+    <string name="added">Added to favorites</string>
+    <string name="no_item">No item</string>
+    <string name="message_undo">Undo</string>
+    <string name="message_ok">Removed from favorites</string>
+</resources>
